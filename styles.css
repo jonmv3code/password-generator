@@ -31,24 +31,16 @@ body {
   border-radius: 10px;
 }
 
-.btn {
+.btn-generate {
   background-color: #4caf50;
   border: none;
   color: white;
-  padding: 15px 32px;
-  text-align: center;
   text-decoration: none;
-  display: inline-block;
+  padding: 10px;
+  border-radius: 10px;
   font-size: 16px;
 }
 
-button {
-  display: block;
-  margin: 1rem;
-  border: none;
-}
-
 .password {
-  justify-content: center;
-  align-items: center;
+  text-align: center;
 }
